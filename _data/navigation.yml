@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Resume"
-    url: /Nitin_Resume.pdf
+    url: /_data/CVRes.pdf
 
   - title: "Sample Navigation Link 2"
     url: /
